@@ -1,5 +1,6 @@
-Project Timeline
+Project Timeline 
 ================
+_(https://github.com/bradfrost/project-timeline)forked from bradfrost/project-timeline_
 
 An HTML template for online project timelines.
 
@@ -12,3 +13,7 @@ The benefits of using a project timeline:
 - Provides an archive for project artifacts
 - Keep clients and team members up to speed with design progress
 - Lives at a URL that doesn't change
+
+TODOS
+- create a master page for all projects that will link to project pages
+- create a sidebar for logging tech, estimate, pomodoros, harvest data, links, repos, etc.
