@@ -1,6 +1,6 @@
 Project Timeline 
 ================
-_(https://github.com/bradfrost/project-timeline)forked from bradfrost/project-timeline_
+_forked from bradfrost/project-timeline https://github.com/bradfrost/project-timeline_
 
 An HTML template for online project timelines.
 
